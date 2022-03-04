@@ -1,0 +1,7 @@
+price=[7,8,2,4,6,8,9]
+price.sort()
+price.reverse()
+max=price[0]
+sec_max=price[1]
+thi_max=price[3]
+print(thi_max)
